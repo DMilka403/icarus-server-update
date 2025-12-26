@@ -1,6 +1,6 @@
 @echo off
 setlocal
-title Icarus Server - Update & Production
+title Icarus Server - Update - Production
 
 REM === CONFIGURATION ===
 set STEAMCMD_DIR=C:\SteamCMD
