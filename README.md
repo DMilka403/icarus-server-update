@@ -1,4 +1,4 @@
-# Icarus Dedicated Server – Auto Update Script (Production)
+# Icarus Dedicated Server – Auto Update Script for WINDOWS
 
 This script allows you to:  
 - Stop the Icarus server if it is running  
